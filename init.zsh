@@ -7,7 +7,7 @@
 ######################################################################
 p6df::modules::p6shell::deps() {
   ModuleDeps=(
-    p6m7g8/p6common
+    p6m7g8-dotfiles/p6common
   )
 }
 ######################################################################
@@ -19,7 +19,5 @@ p6df::modules::p6shell::deps() {
 ######################################################################
 p6df::modules::p6shell::init() {
 
-  local dir="$P6_DFZ_SRC_DIR/p6m7g8/p6shell"
-
-  p6_bootstrap "$dir"
+  p6_bootstrap "$__p6_dir"
 }
