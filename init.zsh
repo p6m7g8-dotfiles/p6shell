@@ -10,10 +10,15 @@ p6df::modules::p6shell::deps() {
     p6m7g8-dotfiles/p6common
   )
 }
+
 ######################################################################
 #<
 #
-# Function: p6df::modules::p6shell::init()
+# Function: p6df::modules::p6shell::init(_module, dir)
+#
+#  Args:
+#	_module -
+#	dir -
 #
 #>
 ######################################################################
