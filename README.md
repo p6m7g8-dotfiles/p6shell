@@ -54,7 +54,7 @@
 .
 └── main.sh
 
-0 directories, 1 file
+1 directory, 1 file
 ```
 ## Author
 
