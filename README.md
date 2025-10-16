@@ -1,61 +1,48 @@
-# p6shell
+# P6's POSIX.2: p6shell
 
 ## Table of Contents
 
-
-### p6shell
-- [p6shell](#p6shell)
-  - [Badges](#badges)
-  - [Distributions](#distributions)
-  - [Summary](#summary)
-  - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-  - [Usage](#usage)
-  - [Author](#author)
-
-### Badges
+## Badges
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/p6m7g8/p6shell)
-[![Mergify](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/p6m7g8/p6shell/&style=flat)](https://mergify.io)
-[![codecov](https://codecov.io/gh/p6m7g8/p6shell/branch/master/graph/badge.svg?token=14Yj1fZbew)](https://codecov.io/gh/p6m7g8/p6shell)
-[![Gihub repo dependents](https://badgen.net/github/dependents-repo/p6m7g8/p6shell)](https://github.com/p6m7g8/p6shell/network/dependents?dependent_type=REPOSITORY)
-[![Gihub package dependents](https://badgen.net/github/dependents-pkg/p6m7g8/p6shell)](https://github.com/p6m7g8/p6shell/network/dependents?dependent_type=PACKAGE)
+[![Mergify](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges//p6shell/&style=flat)](https://mergify.io)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](<https://gitpod.io/#https://github.com//p6shell>)
 
 ## Summary
 
 ## Contributing
 
-- [How to Contribute](CONTRIBUTING.md)
+- [How to Contribute](<https://github.com//.github/blob/main/CONTRIBUTING.md>)
 
 ## Code of Conduct
 
-- [Code of Conduct](https://github.com/p6m7g8/.github/blob/master/CODE_OF_CONDUCT.md)
+- [Code of Conduct](<https://github.com//.github/blob/main/CODE_OF_CONDUCT.md>)
 
 ## Usage
 
-
 ### Aliases
-
 
 ### Functions
 
-### p6shell:
+## p6shell
 
-#### p6shell/init.zsh:
+### p6shell/init.zsh
 
 - p6df::modules::p6shell::deps()
 - p6df::modules::p6shell::init(_module, dir)
 
+## Hierarchy
 
-
-## Hier
 ```text
 .
-└── main.sh
+├── init.zsh
+├── lib
+│   └── main.sh
+└── README.md
 
-1 directory, 1 file
+2 directories, 3 files
 ```
+
 ## Author
 
 Philip M . Gollucci <pgollucci@p6m7g8.com>
