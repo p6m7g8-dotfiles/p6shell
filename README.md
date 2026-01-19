@@ -1,12 +1,10 @@
-# P6's POSIX.2: p6shell
+# P6's POSIX.2: _p6shell
 
 ## Table of Contents
 
 ## Badges
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Mergify](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges//p6shell/&style=flat)](https://mergify.io)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](<https://gitpod.io/#https://github.com//p6shell>)
 
 ## Summary
 
@@ -24,12 +22,7 @@
 
 ### Functions
 
-## p6shell
-
-### p6shell/init.zsh
-
-- p6df::modules::p6shell::deps()
-- p6df::modules::p6shell::init(_module, dir)
+## _p6shell
 
 ## Hierarchy
 
@@ -37,10 +30,9 @@
 .
 ├── init.zsh
 ├── lib
-│   └── main.sh
 └── README.md
 
-2 directories, 3 files
+2 directories, 2 files
 ```
 
 ## Author
